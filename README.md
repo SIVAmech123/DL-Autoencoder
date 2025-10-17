@@ -172,7 +172,8 @@ visualize_denoising(model, test_loader)
 ### OUTPUT
 
 ### Model Summary
-Include your model summary
+![Uploading image.png…]()
+
 
 ### Training loss
 
@@ -180,4 +181,4 @@ Include your model summary
 Include a few sample images here.
 
 ## RESULT
-Include your result here
+To develop a convolutional autoencoder for image denoising application.
