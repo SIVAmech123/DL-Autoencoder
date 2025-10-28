@@ -12,25 +12,25 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 ### STEP 1: 
 
-Write your own steps
+Problem Understanding and Dataset Selection
 
 ### STEP 2: 
 
-
+Preprocessing the Dataset
 
 ### STEP 3: 
 
-
+Design the Convolutional Autoencoder Architecture
 
 ### STEP 4: 
 
-
+Evaluate the Model
 
 ### STEP 5: 
 
+Visualization and Analysis
 
 
-### STEP 6: 
 
 
 
